@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>THIS TEXTBOOK EXPLORES how people in the working world find, create, and deliver technical information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="suntar" changedate="20210708T041652Z" creationid="suntar" creationdate="20210708T041652Z">
+        <seg>这本教材旨在指导相关从业者创造、发现和传播技术信息。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
