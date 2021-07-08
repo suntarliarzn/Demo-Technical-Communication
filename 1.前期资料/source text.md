@@ -1,6 +1,6 @@
  
 
-|      | This is written by liarzn007.                                |
+|      |                                                              |
 | ---- | ------------------------------------------------------------ |
 |      | ![文本框:   3 ](file:///C:/Users/suntar/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |
 
@@ -285,7 +285,7 @@ Figures 1.1, 1.2 (page 14), and 1.3 (page 15) present excerpts from technical do
  
 
 
-
+ 
 
 ![文本框: :Concentrating Solar](file:///C:/Users/suntar/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png)This screen from a video produced by the Department of Energy is intended to educate the general public about the basics of solar energy. Because it includes narra­tion, still images, video, and anima­tion, creating it required the efforts of many professionals.
 
@@ -334,7 +334,7 @@ Figures 1.1, 1.2 (page 14), and 1.3 (page 15) present excerpts from technical do
  
 
 
-
+ 
 
 The video takes advantage of our cultural assumptions about color: red suggests heat, blue suggests cold.
 
@@ -373,7 +373,7 @@ Source: U.S. Department of Energy, 2012:[ http://energy.gov/articles/energy-101-
  
 
 
-
+ 
 
 ![文本框:   Through our current campaign. Our Common Waters, and with exposure to increased oil and gas development near our homes and communities^ we have grown concerned about hydraulic Fracturing (commonly called "fracking") and its impact on water, air, soil, wildlife habitat, and human health. Over 90% of oil and gas wells in the U.S< use fracking to aid tn extraction, and many fracking fluids and chemicals are known toxins for humans and wildfife. ](file:///C:/Users/suntar/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)![文本框: For decades^ natural gas (methane) deposits were tapped by single wells drilled vertically over large, free-flowing pockets of gas. Then came fracking, a water- and chemical-intensive method that promised the profitable extraction of natural gas trapped in shale.](file:///C:/Users/suntar/AppData/Local/Temp/msohtmlclip1/01/clip_image019.png) 
 
