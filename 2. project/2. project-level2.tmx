@@ -28,6 +28,14 @@
         <seg>技术传播的目的是帮助你学习你所需要的技能，以便在你的职业生活中更有效、更高效地交流。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>• To help others learn about a subject, carry out a task, or make a decision.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="suntar" changedate="20210708T060119Z" creationid="suntar" creationdate="20210708T060119Z">
+        <seg>为了帮助他人了解一个主题</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
